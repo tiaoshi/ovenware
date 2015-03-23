@@ -29,8 +29,7 @@
   "homepage": "https://github.com/zedgu/ovenware",
   "dependencies": {
     "debug": "*",
-    "methods": "^1.0.1",
-	"upath": "^0.1.5"
+    "methods": "^1.0.1"
   },
   "devDependencies": {
     "body-parser": "^1.11.0",
